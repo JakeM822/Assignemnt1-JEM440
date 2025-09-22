@@ -9,8 +9,8 @@ Web Dev assignment
      - Most Famous Adventures: An image collage of Batman's most famous comic story lines.
 3. What were the HTML elements you used and why did you choose them?
    The main structure of my HTML consisted of: body(section((section tile)(div-row/col(div(content-box))))footer)
-      - This structure allowed for flexible layouts when styled with CSS. This comes into play mainly when I want to display elements of similar functions in either rows, columns, or both. Within each sections, elements such as h1-h5, img, p, and ul/li were some of the most common occurences within each section. I used these specific elements frequently to construct character bios. 
-   - Provide a link to the W3C HTML validationLinks to an external site. for your front-page. <img width="1549" height="892" alt="image" src="https://github.com/user-attachments/assets/164f7541-124b-4f50-9242-6296b35e558c" /> (Unable to insert link- resulted in browser error when copy/pasting)
+      - This structure allowed for flexible layouts when styled with CSS. This comes into play mainly when I want to display elements of similar functions in either rows, columns, or both. Within each sections, elements such as h1-h5, img, p, and ul/li were some of the most common occurences within each section. I used these specific elements frequently to construct character bios.
+   - Provide a link to the W3C HTML validationLinks to an external site. for your front-page. <img width="1549" height="892" alt="image" src="https://github.com/user-attachments/assets/164f7541-124b-4f50-9242-6296b35e558c" /> (Unable to insert link- resulted in browser error when copy/pasting). I chose to disregard the warnings raised by W3C when checking my HTML. I used p elements in some sections to avoid using h2-h6 for section titles. I did this because for some reason, h2-h6 messed with the font clarity with my specific font.
    
 4. What CSS styles did you apply to change the visual design of those HTML elements?
    The most major style I used repeatedly were:
